@@ -8,4 +8,6 @@ __pycache__/
 build/
 dist/
 wheels/
+.idea/
+.DS_Store
 *.egg-info
