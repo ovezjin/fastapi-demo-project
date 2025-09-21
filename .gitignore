@@ -1,7 +1,9 @@
 # Virtual environments
 .venv/
 .env
-
+env.*
+.env.*
+!.env.sample
 # Python-generated files
 __pycache__/
 *.py[oc]
